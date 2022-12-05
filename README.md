@@ -1,2 +1,4 @@
 # china-cites
-china cities provides countries code json / sql 
+china province cities countries code json / sql 
+
+中国城市代码
